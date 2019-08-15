@@ -1,11 +1,11 @@
 # Site settings
 title: Mint Digital Revolutions
-email: miralda.ixein6.go4dkill@gmail.com
+email: miralda.ixein6.go4dkill
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username: @xein6
+twitter_username: xein6
 github_username: miraldaxein6
 
 # Build settings
